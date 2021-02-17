@@ -1,0 +1,66 @@
+body { 
+    background-color: rgb(0, 0, 102); 
+    font-family: Verdana;
+    color: #FFFFFF;
+}
+a {
+    text-decoration: none;
+    font-weight: bold;
+}
+.nav { 
+    width:500px; 
+    font-size: 90%; 
+    line-height: 110%; 
+    height: 40px;
+    color: #FFFFFF;
+    border: 2px solid rgb(62,62,62);
+    margin: 5px auto;
+}
+.nav td{
+    text-align: center;
+    border: 2px solid rgb(63,62,62);
+    background: rgba(42,42,42,.5);
+    margin: 5px auto;
+    max-width: 100px;
+}
+
+h1 { font-size: 24px; margin: 6px 0 2px 0; }
+h2 { font-size: 18px; margin: 3px 0 1px 0; }
+h3 { font-size: 14px; margin: 1px 0; }
+h4 { font-size: 12px; margin: 1px 0; }
+
+ul {
+  margin-top: 2px;
+  margin-bottom: 6px;
+  margin-left: 0.6em;
+  padding-left: 0.6em;
+}
+
+.titlebar {
+  background: #DDDDDD;
+  color: black;
+  border: 1px solid #CCCCCC;
+  padding-left: 1px; 
+  padding-right: 1px; 
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin: 1px 1px;
+  clear: both;
+}
+
+.wikitable {
+  border-collapse:collapse;
+ font-size: 12px;
+ max-width: 500px;
+ width: 500px;
+}
+
+.wikitable td{
+  border-collapse:collapse;
+  border: 1px solid #DDDDDD;
+  background-color: rgb(42,42,42);
+  text-align: center;
+}
+ul{
+    color: #FFFFFF;
+}
